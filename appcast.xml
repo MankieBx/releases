@@ -8,7 +8,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.9.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://mankiebx.github.io/releases/MankBx1.9.2%20Installer.dmg" length="26726400" type="application/octet-stream" sparkle:edSignature="GVJJp+z/fWPOPi7mgi7AGw+oxE2x5Qbm4avF+fAgu3gwJaOZFYaO4hmT9cc49kO/I3Yd4wAAWCV+kRI2Wys5Bw=="/>
+            <enclosure url="https://mkzcstorage.blob.core.windows.net/releases/MankBx1.9.2%20Installer.dmg" length="26726400" type="application/octet-stream" sparkle:edSignature="GVJJp+z/fWPOPi7mgi7AGw+oxE2x5Qbm4avF+fAgu3gwJaOZFYaO4hmT9cc49kO/I3Yd4wAAWCV+kRI2Wys5Bw=="/>
         </item>
     </channel>
 </rss>
