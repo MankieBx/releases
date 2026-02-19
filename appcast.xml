@@ -1,12 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:sparkle="https://mankiebx.github.io/releases/appcast.xml" version="2.0">
-   <channel>
-      <title>My Cleveland Clinic - Appcast</title>
-      <item>
-         <title>Version 1.15.0</title>
-         <description>Cleveland Clinic Patient App</description>
-         <pubDate>Wed, 23 Oct 2019 12:00:00 +0000</pubDate>
-         <enclosure url="https://play.google.com/store/apps/details?id=org.ccf.patientapp" sparkle:version="1.15.0" sparkle:os="iOS" />
-      </item>
-   </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MankieBx</title>
+        <item>
+            <title>1.9.0</title>
+            <pubDate>Wed, 18 Feb 2026 18:03:11 -0600</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://mankiebx.github.io/releases/MankBx%20Installer.dmg" length="26695680" type="application/octet-stream" sparkle:edSignature="LLpJXerNfkm61k2ekSCRVShhUgBmYw9kG845OTnDjJUVwl0K1edGpULH5ynkdYEXljVe/dMtbCiAAty9hVQqDg=="/>
+        </item>
+    </channel>
 </rss>
