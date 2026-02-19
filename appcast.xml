@@ -4,11 +4,11 @@
         <title>MankieBx</title>
         <item>
             <title>1.9.5</title>
-            <pubDate>Thu, 19 Feb 2026 12:45:52 -0600</pubDate>
+            <pubDate>Thu, 19 Feb 2026 17:08:09 -0600</pubDate>
             <sparkle:version>1.9.5</sparkle:version>
             <sparkle:shortVersionString>1.9.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://mkzcstorage.blob.core.windows.net/releases/MankieBxv1.9.4.zip" length="27201843" type="application/octet-stream" sparkle:edSignature="Z931qo701WPRWFGMGMUc3YSJvGHc22Q0bj9KenxlXzoidf84Hh9lIoy6kWK6XckYD35T/VA3lYWdTmaFBWFwBA=="/>
+            <enclosure url="https://mkzcstorage.blob.core.windows.net/releases/MankieBxv1.9.5.zip" length="27204560" type="application/octet-stream" sparkle:edSignature="DpGZkp9Pyegq19demPZo2fp2mGlt8aMrAxrtc5I3agyrw1Aj6eGYuXEOlrrPhRd2riql47jh4vv38lZ4TOrjBg=="/>
         </item>
     </channel>
 </rss>
