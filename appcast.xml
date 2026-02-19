@@ -3,12 +3,12 @@
     <channel>
         <title>MankBx</title>
         <item>
-            <title>1.9.2</title>
-            <pubDate>Thu, 19 Feb 2026 10:52:29 -0600</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.9.2</sparkle:shortVersionString>
+            <title>1.9.3</title>
+            <pubDate>Thu, 19 Feb 2026 11:23:30 -0600</pubDate>
+            <sparkle:version>1.9.3</sparkle:version>
+            <sparkle:shortVersionString>1.9.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://mkzcstorage.blob.core.windows.net/releases/MankBx1.9.2%20Installer.dmg" length="26726400" type="application/octet-stream" sparkle:edSignature="GVJJp+z/fWPOPi7mgi7AGw+oxE2x5Qbm4avF+fAgu3gwJaOZFYaO4hmT9cc49kO/I3Yd4wAAWCV+kRI2Wys5Bw=="/>
+            <enclosure url="https://mkzcstorage.blob.core.windows.net/releases/MankBx%201.9.3%20Installer.dmg" length="26708480" type="application/octet-stream" sparkle:edSignature="EPLe0GUlC6avdLBaJHnG1J+AdI0V6GC6Xk8cb86fzm0hk0D9YAYc0/rzH1pL2iIAkKQfyqj1UnMD3SnK3U+TAA=="/>
         </item>
     </channel>
 </rss>
