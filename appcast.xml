@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>MankieBx</title>
+        <title>MankBx</title>
         <item>
             <title>2.0.0</title>
-            <pubDate>Mon, 23 Feb 2026 18:05:20 -0600</pubDate>
+            <pubDate>Mon, 23 Feb 2026 20:30:10 -0600</pubDate>
             <sparkle:version>2.0.0</sparkle:version>
             <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://mkzcstorage.blob.core.windows.net/releases/MankieBx-2.0.0.zip" length="27471587" type="application/octet-stream" sparkle:edSignature="RYaCHZydEqktrcGacnlTTTn6DRvByO1vxtR8JaObTLnl+swXhURxDSuBAceM6NJRQC33sfQAneIw2nUoaM3GDQ=="/>
+            <enclosure url="https://mkzcstorage.blob.core.windows.net/releases/MankBx-2.0.0.zip" length="27469339" type="application/octet-stream" sparkle:edSignature="uaLv6nhI3TOrDVMauvjsFNZ/+3x4m4dTuTHCIkIU5My1v8mOea84JbhHUVfG86c/7GMi7MpsxnMIK4tWuFORCA=="/>
         </item>
     </channel>
 </rss>
